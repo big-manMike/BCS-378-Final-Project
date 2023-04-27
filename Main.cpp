@@ -2,5 +2,6 @@
 using namespace std;
 int main() {
 	int x = 1;
-	cout << x;
+	int y = 2;
+	cout << x <<endl<< y;
 }
